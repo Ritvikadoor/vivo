@@ -1,0 +1,14 @@
+.navbar{
+    padding-inline: 3rem;
+}
+.imageborder img{
+ border-radius: 10rem;   
+}
+.thirdimage{
+    width: auto;
+}
+@media screen and (max-width: 1199px){
+    .container-fluid{
+        padding: 60px 40px 40px;
+    }
+}
